@@ -27,7 +27,7 @@ const List<Movie> myMovies = [
 
 /// 닉네임이 있을 수도, 없을 수도 있는 사용자들
 const List<User> sampleUsers = [
-  User(id: 'u1', nickname: '민고'),
+  User(id: 'u1', nickname: '밍고'),
   User(id: 'u2'), // 닉네임을 아직 안 정함 -> null
   User(id: 'u3', nickname: '   '), // 공백만 입력함
 ];
